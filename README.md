@@ -1,37 +1,28 @@
-# React_Components
+# Projeto React que simula um simples website com múltiplas páginas.
 
-Projeto React que simula um simples website com múltiplas páginas.
+## Atividade de Fixação do Curso Geração Tech
+
+![Screenshot 2025-05-01 at 22-23-40 React App](https://github.com/user-attachments/assets/992a11ae-9d43-4941-9df4-b543465f4506)
+
+
 
 1. Primeiro, crie um novo projeto React:
+   
     npx create-react-app react-router-project
+   
     cd react-router-project
 
-2. Instale o React Router:
+3. Instale o React Router:
+   
    npm install react-router-dom
 
-3. Crie a estrutura de diretórios abaixo:
+4. Crie a estrutura de diretórios abaixo:
 
-    projeto-react-router/
-    ├── src/
-    │   ├── components/
-    │   │   ├── layout/
-    │   │   │   ├── Header.js
-    │   │   │   ├── Footer.js
-    │   │   │   └── Layout.js
-    │   │   └── common/
-    │   │       └── Loader.js
-    │   ├── pages/
-    │   │   ├── Home.js
-    │   │   ├── About.js
-    │   │   ├── Contact.js
-    │   │   ├── UserProfile.js
-    │   │   └── NotFound.js
-    │   ├── App.js
-    │   ├── index.js
-    │   └── Routes.js
-    └── package.json
+   ![Screenshot 2025-05-01 at 22-51-38 Building a Multi-Page React App with React Router - Claude](https://github.com/user-attachments/assets/f8959c97-766c-4e7b-a2fa-aa3f3ea8bea3)
 
-4. Executar o projeto:
+
+6. Executar o projeto:
+   
    npm start
 
 Criado no CodeSandbox.
